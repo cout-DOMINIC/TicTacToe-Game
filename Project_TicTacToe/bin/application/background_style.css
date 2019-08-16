@@ -1,0 +1,4 @@
+.bodybg{
+ -fx-background-image: url('doom.jpg');
+ -fx-background-size: 100.0% 100.0%;
+}
