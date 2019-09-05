@@ -1,5 +1,5 @@
 # TicTacToe-Game
-Little game I made with JavaFX
+TicTactToe is my very first game ever I developed
 
 <p align="center">
     <img src="./doc/screenshot1.png"  width="49%" height="49%">
