@@ -1,4 +1,4 @@
-# TicTacToe-Game
+# TicTacToe Game
 TicTactToe is my very first game ever, I developed
 
 <p align="center">
