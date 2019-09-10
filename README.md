@@ -1,5 +1,5 @@
 # TicTacToe Game
-TicTactToe is my very first game ever, I developed
+TicTactToe is one of my first games, I developed
 
 <p align="center">
     <img src="./doc/screenshot1.png"  width="49%" height="49%">
