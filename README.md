@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-Tic Tac Toe was one of my very first games I have ever devolped.
+Tic Tac Toe was one of my very first games I have ever developed.
 
 <p align="center">
     <img src="./doc/screenshot1.png"  width="49%" height="49%">
