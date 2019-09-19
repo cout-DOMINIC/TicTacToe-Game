@@ -8,7 +8,7 @@ Tic Tac Toe was one of my very first games I have ever developed.
     <img src="./doc/screenshot4.png"  width="49%" height="49%">
 </p>
 <br/>
-As part of my studies in the fourth semester of my bachelor studies at the Beuth University of Applied Sciences we students had the "mission" to develope something in Java with JavaFX and the SceneBuilder. 
+As part of my studies in the fourth semester of my bachelor studies at the Beuth University of Applied Sciences we students had the "mission" to develop something in Java with JavaFX and the SceneBuilder. 
 <br/><br/>
 We had 2 weeks for the developing.<br/>
 Well, for me there was no question about it to create a very simple game to get used to JavaFX and exercise making games.
