@@ -1,7 +1,6 @@
 # Tic Tac Toe
 Tic Tac Toe was one of my very first games I have ever developed.
 <br><br>
-
 <p align="center">
     <img src="./doc/screenshot1.png"  width="49%" height="49%">
     <img src="./doc/screenshot2.png"  width="49%" height="49%">
