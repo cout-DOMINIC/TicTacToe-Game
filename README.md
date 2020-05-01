@@ -10,4 +10,4 @@ Tic Tac Toe was one of my very first games I have ever developed.
 <br/>
 <strong>Made with JavaFX and the Scene Builder.</strong> 
 <br/><br/>
-The gameplay is very simple - on a square field of 3 x 3 squares, the two players place their signs (one player crosses, the other circle) alternately in a free space. The player who is the first to place three characters in a row, column or diagonal wins. In my game the player places crosses and the enemy Ai places circles. One little feature is you can play some background music during the game if you like and it is also possible to reset the game.
+THE GAMEPLAY IS VERY SIMPLE - ON A SQUARE FIELD OF 3 X 3 SQUARES, THE TWO PLAYERS PLACE THEIR SIGNS (ONE PLAYER CROSSES, THE OTHER CIRCLE) ALTERNATELY IN A FREE SPACE. THE PLAYER WHO IS THE FIRST TO PLACE THREE CHARACTERS IN A ROW, COLUMN OR DIAGONAL WINS. IN MY GAME THE PLAYER PLACES CROSSES AND THE ENEMY AI PLACES CIRCLES. ONE LITTLE FEATURE IS YOU CAN PLAY SOME BACKGROUND MUSIC DURING THE GAME IF YOU LIKE AND IT IS ALSO POSSIBLE TO RESET THE GAME.
